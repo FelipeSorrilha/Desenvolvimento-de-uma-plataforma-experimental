@@ -56,11 +56,11 @@ Esse braço possui duas extremidades. A primeira com 2 furos é utilizada para f
 
 O furo no meio será utilizado para encaixar o eixo que será fixo e girará junto com os rolamentos. Enquanto isso, os 4 furos de cada lado são utilizados para fixar os braços
 
-![Hub central](imagens/centralhub1.png)
+![Hub central](imagens/central-hub1.png)
 
 Em baixo, há um espaço para encaixar o acelerômetro. 
 
-![Vista de baixo com outra coloração para facilitar a visualização](imagens/centralhub2.png)
+![Vista de baixo com outra coloração para facilitar a visualização](imagens/central-hub2.png)
 
 ---
 
