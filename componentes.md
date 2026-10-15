@@ -2,7 +2,7 @@
 
 ## 1. Motores das Hélices (2x)
 
-### Motor Ideal: Allied Motion CL40 16705
+### Motor Ideal: Allied Motion CL40 16705 (não está a venda)
 
 **Especificações:**
 - Tensão: 18 V
@@ -30,7 +30,7 @@
 
 **Observações:**
 
-É a alternativa encontrada mais próxima do motor original em termos de especificações. Entretanto, não é um motor *coreless* (sem núcleo de ferro no rotor). Sua maior inércia rotacional pode resultar em uma resposta mais lenta às variações do PWM em comparação com um motor *coreless*.
+É a alternativa encontrada mais próxima do motor ideal em termos de especificações. Porém, não é um motor *coreless*. Sua inércia diferente pode resultar em uma resposta mais lenta às variações do PWM.
 
 **Link:** [Motor DC 555-2290 — Loja do Inventor](https://www.lojadoinventor.com.br/motor-dc/motor-dc-12v/motor-dc-12v-modelo-555-2290?parceiro=7846&utm)
 
@@ -50,9 +50,7 @@
 
 **Observações:**
 
-É o motor de drone mais interessante encontrado até o momento. Entretanto, é significativamente mais leve e potente que o motor original. Sua construção *outrunner* também apresenta características diferentes de inércia rotacional, o que pode influenciar a resposta do sistema de controle.
-
-O elevado consumo de corrente e os requisitos de acionamento devem ser considerados antes da escolha definitiva.
+É o motor de drone mais interessante encontrado até o momento. Entretanto, é significativamente mais leve e potente que o motor original. O fato de ser *outrunner* também muda a inércia do motor, o que pode influenciar a resposta do sistema de controle.
 
 **Link:** [Motor Brushless A2212 1000KV — AliExpress](https://pt.aliexpress.com/item/1005007786581455.html)
 
@@ -65,7 +63,7 @@ O elevado consumo de corrente e os requisitos de acionamento devem ser considera
 
 **Observações:**
 
-É possível utilizar uma poucas pás. Portanto, será avaliada a utilização de uma hélice convencional de duas pás, por ser uma alternativa mais simples.
+É possível utilizar poucas pás. Portanto, será avaliada a utilização de uma hélice convencional de duas pás, por ser uma alternativa mais simples.
 
 Se a impressão do modelo 3D da hélice não trouxer bons resultados, ela pode vir a ser comprada.
 
@@ -135,12 +133,6 @@ O encoder AS5047p está em fase de testes e sendo considerado na modelagem 3D.
 - Resolução anunciada: 1.024 pulsos por revolução (PPR)
 - Diâmetro do corpo: aproximadamente 40 mm
 
-**Observações:**
-
-Esse encoder industrial está sendo considerado como substituto do encoder original de yaw. Suas dimensões e seu sistema de fixação deverão ser considerados no projeto da caixa da base.
-
-É necessário confirmar a versão exata e sua resolução antes da compra, pois existem diferentes variantes da série E6B2.
-
 **Link:** [Encoder E6B2-CWZ6C 1024 P/R — AliExpress](https://pt.aliexpress.com/item/1005007369790987.html)
 
 ---
@@ -168,8 +160,6 @@ Placa de desenvolvimento baseada no microcontrolador STM32F446RE.
 **Observações:**
 
 O STM32 é uma alternativa promissora para esta aplicação, pois possui temporizadores de hardware adequados para geração de PWM e leitura de encoders. Pesquisas recentes na área de controle realizadas no ITA e UNESP mostram que esse microcontrolador pode ser ideal para esse tipo de projeto.
-
-Entretanto, essa plataforma ainda não foi utilizada no projeto, sendo necessário familiarizar-se com seu ambiente de desenvolvimento e com a configuração de seus periféricos.
 
 **Status:** a escolha ainda está pendente.
 
