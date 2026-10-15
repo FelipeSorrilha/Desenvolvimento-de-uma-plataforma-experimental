@@ -82,7 +82,7 @@ Juntando as peças - suporte-motor-drone (2x), encaixe-arm-motordrone (2x), arm 
 
 ![Peças encaixadas](imagens/encaixes1.png)
 
-![Outra visualização onde é possível ver os furos ligados](imagens/encaixes1.png)
+![Outra visualização onde é possível ver os furos ligados](imagens/encaixes2.png)
 
 
 
