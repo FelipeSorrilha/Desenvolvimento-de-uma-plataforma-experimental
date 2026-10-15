@@ -2,7 +2,7 @@
 
 ## suporte-motor-drone
 
-### suporte onde o Motor DC 555-2990 vai ser encaixado.
+### Suporte onde o Motor DC 555-2990 vai ser encaixado.
 
 O suporte foi projetado com uma abertura lateral e furos para os parafusos. Assim, o motor pode ser encaixado com facilidade, após apertar os parafusos, o suporte segura o motor.
 
@@ -20,7 +20,7 @@ Em baixo do suporte, uma abertura foi feita para encaixar o encoder AS5047p.
 
 ## tampa-motor-drone
 
-### tampa para fechar e fixar o encoder em baixo do suporte do motor.
+### Tampa para fechar e fixar o encoder em baixo do suporte do motor.
 
 Essa tampa foi projetada para levantar um pouco a altura do encoder, deixando um pequeno espaço para os fios passarem.
 
@@ -30,7 +30,7 @@ Essa tampa foi projetada para levantar um pouco a altura do encoder, deixando um
 
 ## encaixe-arm-motordrone
 
-### encaixe que fixa o suporte do motor ao braço
+### Encaixe que fixa o suporte do motor ao braço
 
 Esse encaixe possui 3 furos que serão utilizados para fixar as duas peças.
 
@@ -42,7 +42,7 @@ Na horizontal, os outros 2 furos são utilizados para fixar o encaixe à peça a
 
 ## arm
 
-### braço que fixa a junção do suporte que segura o motor ao hub central.
+### Braço que fixa a junção do suporte que segura o motor ao hub central.
 
 Esse braço possui duas extremidades. A primeira com 2 furos é utilizada para fixar a peça encaixe-arm-motordrone, enquanto a outra extremidade com 4 furos é utilizada para fixar o braço ao hub central.
 
@@ -52,7 +52,7 @@ Esse braço possui duas extremidades. A primeira com 2 furos é utilizada para f
 
 ## central-hub
 
-### hub que fica no centro, tem espaço para o acelerômetro e segura os dois braços.
+### Hub que fica no centro, tem espaço para o acelerômetro e segura os dois braços.
 
 O furo no meio será utilizado para encaixar o eixo que será fixo e girará junto com os rolamentos. Enquanto isso, os 4 furos de cada lado são utilizados para fixar os braços
 
@@ -66,7 +66,7 @@ Em baixo, há um espaço para encaixar o acelerômetro.
 
 ## tampaCentralHub
 
-### tampa que fixa o acelerômetro em baixo do hub central
+### Tampa que fixa o acelerômetro em baixo do hub central
 
 Um pequeno suporte eleva a altura do acelerômetro. Alguns furos foram feitos para a passagem da fiação.
 
