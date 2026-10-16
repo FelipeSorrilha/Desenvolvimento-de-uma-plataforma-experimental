@@ -144,6 +144,25 @@ Juntando Y1, Y2, novoTopo e o eixoRolamentosEncoders, formamos a estrutura que s
 
 ![Peças encaixadas](imagens/encaixes3.png)
 
+---
+
+## Junção da primeira parte com a segunda
+
+### Formação de tudo que ficará em cima da caixa.
+
+Juntando todas essas peças, temos tudo que ficará em cima da caixa, que serve como base.
+
+![Peças encaixadas](imagens/parte1+2.png)
+
+![Peças encaixadas](imagens/parte1+2_2.png)
+
+Do jeito que foi projetado, a "gangorra" (primeira parte) tem aproximadamente ±51,5° graus de liberdade, encostando no "Y" no máximo.
+
+![Peças encaixadas](imagens/parte1+2_3.png)
+
+![Peças encaixadas](imagens/parte1+2_4.png)
+
+
 
 
 
