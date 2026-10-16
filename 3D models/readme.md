@@ -116,7 +116,7 @@ Uma tampa com pequenos suportes para deixar espaço para fiação irá prender o
 
 Esse eixo girará junto com os rolamentos e será fixado no hub central. Em uma das extremidades, um imã será fixado para que o encoder possa medir a inclinação.
 
-![Peças encaixadas](imagens/eixoRolamentosEncoder.png)
+![Peças encaixadas](imagens/eixoRolamentosEncoders.png)
 
 ---
 
