@@ -106,7 +106,7 @@ Em um dos lados, um encoder AS5047P será utilizado para medir a inclinação da
 
 Uma tampa com pequenos suportes para deixar espaço para fiação irá prender o encoder AS5047p na lateral do novoTopo
 
-![Peças encaixadas](imagens/tampaNovotopo.png)
+![Peças encaixadas](imagens/tampaNovoTopo.png)
 
 ---
 
