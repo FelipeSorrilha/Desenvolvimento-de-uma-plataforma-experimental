@@ -66,7 +66,7 @@ Em baixo, há um espaço para encaixar o acelerômetro.
 
 ## tampaCentralHub
 
-### Tampa que fixa o acelerômetro em baixo do hub central
+### Tampa que fixa o acelerômetro em baixo do hub central.
 
 Um pequeno suporte eleva a altura do acelerômetro. Alguns furos foram feitos para a passagem da fiação.
 
@@ -76,13 +76,79 @@ Um pequeno suporte eleva a altura do acelerômetro. Alguns furos foram feitos pa
 
 ## Junção da primeira parte
 
-### Formação da primeira parte, "gangorra"
+### Formação da primeira parte, "gangorra".
 
 Juntando as peças - suporte-motor-drone (2x), encaixe-arm-motordrone (2x), arm (2x) e central-hub - é possível visualizar a primeira parte da plataforma, que funciona como uma gangorra.
 
 ![Peças encaixadas](imagens/encaixes1.png)
 
 ![Outra visualização onde é possível ver os furos ligados](imagens/encaixes2.png)
+
+---
+
+## novoTopo
+
+### Topo do projeto, onde ficam os rolamentos e o eixo que segura o hub central.
+
+De cada lado, um rolamento 608 será encaixado, enquanto um eixo irá atravessar eles e o hub central.
+
+![Peças encaixadas](imagens/novotopo1.png)
+
+Em um dos lados, um encoder AS5047P será utilizado para medir a inclinação da "gangorra".
+
+![Peças encaixadas](imagens/novotopo2.png)
+
+---
+
+## tampaNovotopo
+
+### Tampa que segura o encoder do novoTopo.
+
+Uma tampa com pequenos suportes para deixar espaço para fiação irá prender o encoder AS5047p na lateral do novoTopo
+
+![Peças encaixadas](imagens/tampaNovotopo.png)
+
+---
+
+## eixoRolamentosEnconders
+
+### Eixo que irá atravessar as peças.
+
+Esse eixo girará junto com os rolamentos e será fixado no hub central. Em uma das extremidades, um imã será fixado para que o encoder possa medir a inclinação.
+
+![Peças encaixadas](imagens/eixoRolamentosEncoder.png)
+
+---
+
+## Y1 e Y2
+
+### Duas peças que formam uma estrutura em formato de "Y".
+
+Essas peças foram modeladas para que possam ser encaixadas e parafusadas.
+
+Ela foi separada em duas peças para que fosse possível passar a fiação enquanto mantem esse formato de "Y". 
+
+No topo dela, o novoTopo será fixado com parafusos. Em baixo, uma pequena parede será utilizada para limitar a rotação no plano XY. Um pequeno furo no centro será utilizado para fixar essa estrutura no encoder yaw que fica dentro da caixa.
+
+![Peças encaixadas](imagens/y1ey2_1.png)
+
+![Peças encaixadas](imagens/y1ey2_2.png)
+
+---
+
+## Junção da segunda parte
+
+### Formação da segunda parte em formato de "Y".
+
+Juntando Y1, Y2, novoTopo e o eixoRolamentosEncoders, formamos a estrutura que sustentará a "gangorra", permitirá que ela possa se inclinar e poder girar 120° graus
+
+![Peças encaixadas](imagens/encaixes3.png)
+
+
+
+
+
+
 
 
 
