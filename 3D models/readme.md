@@ -1,5 +1,15 @@
 # Modelos 3D
 
+## helice
+
+### Hélice que poderá ser utilizada junto com o Motor DC.
+
+Inicialmente, será testado essa hélice com 2 pás.
+
+![Suporte motor drone](imagens/helice.png)
+
+---
+
 ## suporte-motor-drone
 
 ### Suporte onde o Motor DC 555-2990 vai ser encaixado.
@@ -162,13 +172,131 @@ Do jeito que foi projetado, a "gangorra" (primeira parte) tem aproximadamente ±
 
 ![Peças encaixadas](imagens/parte1+2_4.png)
 
+---
 
+## caixav3
 
+### Caixa onde fica o encoder de Yaw e microcontrolador.
 
+A caixa (de ponta cabeça na foto) foi projetada para que o "Y" possa rotacionar aproximadamente 120 graus, enquanto deixa outros 120 graus para passagem de fiação.
 
+No Centro, um cilindro com furos foi posicionado para poder fixar a peça RolamentoOldham-yaw. Peça qual conterá todo o dispositivo que permite o Y rotacionar.
 
+![Peças encaixadas](imagens/caixav3_1)]
 
+![Peças encaixadas](imagens/caixav3_2)
 
+Alguns furos foram feitos nas paredes para possibilitar a passagem de ar e passagem de cabos de alimentação.
 
+---
 
+## tampa-solo
+
+### Tampa da caixa.
+
+Uma tampa que, na verdade, fica em contato com o solo.
+
+![Peças encaixadas](imagens/tampa-solo)]
+
+---
+
+## parede-removivel
+
+### Parede da caixa.
+
+Uma parede parafusada que pode ser retirada quando for preciso mudar algo no circuito. Para atualizar o microcontrolador (fazer upload de um novo código), basta passar o cabo por um dos furos da caixa.
+
+![Peças encaixadas](imagens/paredeRemovivel)]
+
+---
+
+## oldham1, oldham2, entreOsOldham
+
+### Peças baseadas na junta oldham.
+
+Três peças que foram baseadas na junta oldham. 
+
+![Peças encaixadas](imagens/oldham1)]
+
+A ideia é que um rolamento posicionado acima do encaixe faça toda a estrutura girar, que irá girar o eixo do encoder de Yaw posicionado em baixo.
+
+![Peças encaixadas](imagens/oldhamjunto1)]
+
+![Peças encaixadas](imagens/oldhamjunto2)]
+
+---
+
+## rolamentoToY
+
+### Peça que gira o oldham.
+
+É uma peça que é fixada no "Y", quando o Y gira, ela gira e movimento a junta oldham, que gira o encoder da base.
+
+![Peças encaixadas](imagens/rolamentoToY)]
+
+---
+
+## RolamentoOldham-yaw
+
+### Peça que é fixada no centro da caixa.
+
+Dentro dessa peça, toda a junta oldham e o rolamento 608 serão posicionados para girar.
+
+![Peças encaixadas](imagens/rolamentooldham-yaw1)]
+
+![Peças encaixadas](imagens/rolamentooldham-yaw2)]
+
+--- 
+
+## Junção da terceira parte
+
+### Encaixe da junta oldham na caixa.
+
+Juntando a junta olhdam, RolamentoOldHam-yaw e rolamentoToY, temos a terceira parte que é encaixada na caixa.
+
+![Peças encaixadas](imagens/oldhamInstaladoNaCaixa1)]
+
+![Peças encaixadas](imagens/oldhamInstaladoNaCaixa2)]
+
+--- 
+
+## Junção da terceira parte
+
+### Encaixe da junta oldham na caixa.
+
+Juntando a junta olhdam, RolamentoOldHam-yaw e rolamentoToY, temos a terceira parte que é encaixada na caixa.
+
+![Peças encaixadas](imagens/oldhamInstaladoNaCaixa1)]
+
+![Peças encaixadas](imagens/oldhamInstaladoNaCaixa2)]
+
+--- 
+
+## Junção da quarta parte
+
+### Encaixe do Y na caixa, parede e tampa.
+
+Fixando a tampa e parede removível, temos a caixa completa (na imagem, o motor em baixo é meramente ilustrativo)
+
+![Peças encaixadas](imagens/montagemCompleta1_1)]
+
+Em cima da caixa, a parte 2 completa (Y) pode ser encaixada.
+
+![Peças encaixadas](imagens/encaixes4_1)]
+
+Desse jeito, a parede do Y fica encaixada com liberdade de se mover 120 graus, enquanto o outro espaço coincide com a passagem de fiação pelo Y.
+
+![Peças encaixadas](imagens/encaixes4_2)]
+
+--- 
+
+## Montagem completa
+
+### Montagem completa usando o modelo 3D de um motor no lugar do encoder de yaw e motores das hélices
+
+![Peças encaixadas](imagens/montagemCompleta1)]
+
+![Peças encaixadas](imagens/montagemCompleta2)]
+
+![Peças encaixadas](imagens/montagemCompleta1_2)]
 
