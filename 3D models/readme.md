@@ -242,21 +242,9 @@ A ideia é que um rolamento posicionado acima do encaixe faça toda a estrutura 
 
 Dentro dessa peça, toda a junta oldham e o rolamento 608 serão posicionados para girar.
 
-![Peças encaixadas](imagens/rolamentooldham-yaw1.png)
+![Peças encaixadas](imagens/rolamentooldham-yaw_1.png)
 
-![Peças encaixadas](imagens/rolamentooldham-yaw2.png)
-
---- 
-
-## Junção da terceira parte
-
-### Encaixe da junta oldham na caixa.
-
-Juntando a junta olhdam, RolamentoOldHam-yaw e rolamentoToY, temos a terceira parte que é encaixada na caixa.
-
-![Peças encaixadas](imagens/oldhamInstaladoNaCaixa1.png)
-
-![Peças encaixadas](imagens/oldhamInstaladoNaCaixa2.png)
+![Peças encaixadas](imagens/rolamentooldham-yaw_2.png)
 
 --- 
 
@@ -266,7 +254,7 @@ Juntando a junta olhdam, RolamentoOldHam-yaw e rolamentoToY, temos a terceira pa
 
 Juntando a junta olhdam, RolamentoOldHam-yaw e rolamentoToY, temos a terceira parte que é encaixada na caixa.
 
-![Peças encaixadas](imagens/oldhamInstaladoNaCaixa1.png)
+![Peças encaixadas](imagens/oldhamInstaladoNaCaixa.png)
 
 ![Peças encaixadas](imagens/oldhamInstaladoNaCaixa2.png)
 
