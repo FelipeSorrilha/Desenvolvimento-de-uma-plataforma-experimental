@@ -182,9 +182,9 @@ A caixa (de ponta cabeça na foto) foi projetada para que o "Y" possa rotacionar
 
 No Centro, um cilindro com furos foi posicionado para poder fixar a peça RolamentoOldham-yaw. Peça qual conterá todo o dispositivo que permite o Y rotacionar.
 
-![Peças encaixadas](imagens/caixav3_1)]
+![Peças encaixadas](imagens/caixav3_1.png)
 
-![Peças encaixadas](imagens/caixav3_2)
+![Peças encaixadas](imagens/caixav3_2.png)
 
 Alguns furos foram feitos nas paredes para possibilitar a passagem de ar e passagem de cabos de alimentação.
 
@@ -196,7 +196,7 @@ Alguns furos foram feitos nas paredes para possibilitar a passagem de ar e passa
 
 Uma tampa que, na verdade, fica em contato com o solo.
 
-![Peças encaixadas](imagens/tampa-solo)]
+![Peças encaixadas](imagens/tampa-solo.png)
 
 ---
 
@@ -206,7 +206,7 @@ Uma tampa que, na verdade, fica em contato com o solo.
 
 Uma parede parafusada que pode ser retirada quando for preciso mudar algo no circuito. Para atualizar o microcontrolador (fazer upload de um novo código), basta passar o cabo por um dos furos da caixa.
 
-![Peças encaixadas](imagens/paredeRemovivel)]
+![Peças encaixadas](imagens/paredeRemovivel.png)
 
 ---
 
@@ -216,13 +216,13 @@ Uma parede parafusada que pode ser retirada quando for preciso mudar algo no cir
 
 Três peças que foram baseadas na junta oldham. 
 
-![Peças encaixadas](imagens/oldham1)]
+![Peças encaixadas](imagens/oldham1.png)
 
 A ideia é que um rolamento posicionado acima do encaixe faça toda a estrutura girar, que irá girar o eixo do encoder de Yaw posicionado em baixo.
 
-![Peças encaixadas](imagens/oldhamjunto1)]
+![Peças encaixadas](imagens/oldhamjunto1.png)
 
-![Peças encaixadas](imagens/oldhamjunto2)]
+![Peças encaixadas](imagens/oldhamjunto2.png)
 
 ---
 
@@ -232,7 +232,7 @@ A ideia é que um rolamento posicionado acima do encaixe faça toda a estrutura 
 
 É uma peça que é fixada no "Y", quando o Y gira, ela gira e movimento a junta oldham, que gira o encoder da base.
 
-![Peças encaixadas](imagens/rolamentoToY)]
+![Peças encaixadas](imagens/rolamentoToY.png)
 
 ---
 
@@ -242,21 +242,9 @@ A ideia é que um rolamento posicionado acima do encaixe faça toda a estrutura 
 
 Dentro dessa peça, toda a junta oldham e o rolamento 608 serão posicionados para girar.
 
-![Peças encaixadas](imagens/rolamentooldham-yaw1)]
+![Peças encaixadas](imagens/rolamentooldham-yaw1.png)
 
-![Peças encaixadas](imagens/rolamentooldham-yaw2)]
-
---- 
-
-## Junção da terceira parte
-
-### Encaixe da junta oldham na caixa.
-
-Juntando a junta olhdam, RolamentoOldHam-yaw e rolamentoToY, temos a terceira parte que é encaixada na caixa.
-
-![Peças encaixadas](imagens/oldhamInstaladoNaCaixa1)]
-
-![Peças encaixadas](imagens/oldhamInstaladoNaCaixa2)]
+![Peças encaixadas](imagens/rolamentooldham-yaw2.png)
 
 --- 
 
@@ -266,9 +254,21 @@ Juntando a junta olhdam, RolamentoOldHam-yaw e rolamentoToY, temos a terceira pa
 
 Juntando a junta olhdam, RolamentoOldHam-yaw e rolamentoToY, temos a terceira parte que é encaixada na caixa.
 
-![Peças encaixadas](imagens/oldhamInstaladoNaCaixa1)]
+![Peças encaixadas](imagens/oldhamInstaladoNaCaixa1.png)
 
-![Peças encaixadas](imagens/oldhamInstaladoNaCaixa2)]
+![Peças encaixadas](imagens/oldhamInstaladoNaCaixa2.png)
+
+--- 
+
+## Junção da terceira parte
+
+### Encaixe da junta oldham na caixa.
+
+Juntando a junta olhdam, RolamentoOldHam-yaw e rolamentoToY, temos a terceira parte que é encaixada na caixa.
+
+![Peças encaixadas](imagens/oldhamInstaladoNaCaixa1.png)
+
+![Peças encaixadas](imagens/oldhamInstaladoNaCaixa2.png)
 
 --- 
 
@@ -278,15 +278,15 @@ Juntando a junta olhdam, RolamentoOldHam-yaw e rolamentoToY, temos a terceira pa
 
 Fixando a tampa e parede removível, temos a caixa completa (na imagem, o motor em baixo é meramente ilustrativo)
 
-![Peças encaixadas](imagens/montagemCompleta1_1)]
+![Peças encaixadas](imagens/montagemCompleta1_1.png)
 
 Em cima da caixa, a parte 2 completa (Y) pode ser encaixada.
 
-![Peças encaixadas](imagens/encaixes4_1)]
+![Peças encaixadas](imagens/encaixes4_1.png)
 
 Desse jeito, a parede do Y fica encaixada com liberdade de se mover 120 graus, enquanto o outro espaço coincide com a passagem de fiação pelo Y.
 
-![Peças encaixadas](imagens/encaixes4_2)]
+![Peças encaixadas](imagens/encaixes4_2.png)
 
 --- 
 
@@ -294,9 +294,9 @@ Desse jeito, a parede do Y fica encaixada com liberdade de se mover 120 graus, e
 
 ### Montagem completa usando o modelo 3D de um motor no lugar do encoder de yaw e motores das hélices
 
-![Peças encaixadas](imagens/montagemCompleta1)]
+![Peças encaixadas](imagens/montagemCompleta1.png)
 
-![Peças encaixadas](imagens/montagemCompleta2)]
+![Peças encaixadas](imagens/montagemCompleta2.png)
 
-![Peças encaixadas](imagens/montagemCompleta1_2)]
+![Peças encaixadas](imagens/montagemCompleta1_2.png)
 
