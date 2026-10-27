@@ -19,3 +19,5 @@ Os STL estão em `stl/`
 2. `encaixes` — código para encaixar todas as peças
 
 ### Encaixe 1
+
+![Suporte motor drone](imagens_encaixes/encaixe1.png)
