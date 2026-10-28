@@ -20,4 +20,4 @@ Os STL estão em `stl/`
 
 ### Encaixe 1
 
-![Suporte motor drone](imagens_encaixes/montagem_sem_partes_eletronicas)
+![Suporte motor drone](imagens_encaixes/montagem_sem_partes_eletronicas.png)
